@@ -1,0 +1,155 @@
+{
+    "title":  "Celebrate 30 Years of Diablo in Season of Hell\u0027s Legacy: 3.2.1 Patch Notes",
+    "version":  "3.2.1",
+    "published_at":  "2026-09-12T18:15:00Z",
+    "source_url":  "https://news.blizzard.com/en-us/article/24295394/celebrate-30-years-of-diablo-in-season-of-hell-s-legacy",
+    "source_name":  "Blizzard News",
+    "tldr":  "Season 15, Season of Hell\u0027s Legacy, celebrates Diablo\u0027s 30th anniversary. You defeat echoes of Diablo, Baal and Mephisto, then bear one of their Splinters for a reputation track and an Iconic Power. Patch 3.2.1 also adds Waking Nightmares, Soul Splinter gems, nine permanent legacy Uniques, Rebirth and War Plans progress shared across characters. On balance, four classes get better main-stat scaling, Barbarian is toned down, a Spiritborn damage bug is fixed alongside large Spiritborn buffs, and loot, XP and gem crafting become more generous.",
+    "highlights":  [
+                       "Bear a Prime Evil\u0027s Splinter (Diablo, Baal or Mephisto) for a seasonal reputation track and Iconic Power",
+                       "Nine permanent legacy Uniques, including Stone of Jordan and Leoric\u0027s Crown",
+                       "War Plans progress shared across characters, plus Rebirth to bring Eternal heroes into the Season",
+                       "Main-stat scaling up for Druid, Necromancer, Paladin and Sorcerer, down for Barbarian",
+                       "More early-Torment Legendaries, more Lair Boss Mythics and much cheaper gem crafting"
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Seasonal mechanic",
+                        "text":  "After the questline you bear one Prime Evil\u0027s Splinter (Diablo, Baal or Mephisto), each with 8 activity modifiers and 6 Iconic Power upgrades on its reputation track."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Waking Nightmares",
+                        "text":  "Encounters recreated from past Diablo games come as multi-level Capstones (pinnacle versions at Torment 10+), fixed dungeons like the Den of Evil, and one-room open-world events."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Soul Splinters",
+                        "text":  "Eight demonic seasonal gems each pair a boon with a drawback; you can socket up to three in jewelry and merge same-type, same-rarity copies upward in the Horadric Cube."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Legacy Uniques",
+                        "text":  "Nine classic Uniques, including Stone of Jordan, Leoric\u0027s Crown and Messerschmidt\u0027s Reaver, join the game permanently on both Seasonal and Eternal realms."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Rebirth",
+                        "text":  "An Eternal character with no items equipped or carried can restart at level 1 in the Seasonal realm, keeping its class, name, appearance and saved cosmetics."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "War Plans",
+                        "text":  "War Plans reputation is now pooled across characters in the same Seasonal/Eternal, Hardcore and SSF partition, while each keeps its own point allocation."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Mythic crafting",
+                        "text":  "The Cube\u0027s existing direct Unique-to-Mythic upgrade now keeps every affix, temper and masterwork, but you can equip only one of these Crafted-tag items."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Horadric Cube",
+                        "text":  "Affix Value Reroll re-rolls base affixes while protecting Greater Affixes, enchants and tempers, and Horadric Reroll fully randomizes base affixes on Legendary+ Charms and Seals."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Class scaling",
+                        "text":  "Druid, Necromancer, Paladin and Sorcerer now get 1.625% damage per 10 main-stat points instead of 1.25%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Barbarian",
+                        "text":  "Strength scaling falls from 1.1% to 0.8% per 10 points, and the Disembowel and Crusher glyphs drop from 20% to 15%."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Necromancer",
+                        "text":  "Corpse Explosion rises from 110% to 180% and Miasma from 210% to 350%, and Army of the Dead stacks up to 5 times when recast."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Paladin",
+                        "text":  "Judgement now scales with the rank of whichever skill applied it, and Judicator Oath adds 100% damage when Judgement hits a lone enemy."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Sorcerer",
+                        "text":  "Cold builds get stronger: Shivering Aspect goes from 60-90% to 90-120%, Blue Rose from 40-60% to 80-100%, and Meteor impact from 180% to 240%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Sorcerer",
+                        "text":  "Enchantment Master falls from 100% to 60% (with a new 75% bonus for matching elements), and Elemental Constellation from 80-120% to 45-60%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Spiritborn",
+                        "text":  "A Tzic Rune bug that boosted all skills is fixed, and Aspect of Supremacy\u0027s post-Ultimate stacks now cap at 15 instead of 30."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Spiritborn Paragon",
+                        "text":  "The new Swarm of Storms board gives 80% more damage to skills that spawn Pestilent Swarms or Spirit Storms, while many Core skills also hit harder."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Warlock",
+                        "text":  "Overwhelming Aspect no longer burns 4 Overpower stacks for 80-120% per hit; Occult skills now gain 5-7% per Overpower stack against Elites, doubled on Hexed foes."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Rogue",
+                        "text":  "The per-Combo-Point offensive temper jumps from 3-4.5% to 10-15%, and Aspect of Artful Initiative from 25-30% to 40-50%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Rogue Paragon",
+                        "text":  "Tricks of the Trade swaps its 60% Marksman/Cutthroat cross-bonus for 20% from each of Marksman, Cutthroat, Mobility and Trap skills."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Loot",
+                        "text":  "Legendaries drop more often in Torment I-V, and any Unique can now drop from level 1 on every difficulty."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Mythic Uniques",
+                        "text":  "Initiate Lair Bosses now match the Greater Lair Boss Mythic rate, Belial and random drops give more, and Echo of Mephisto guarantees one."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Resistances",
+                        "text":  "Single-element Resistance affixes on gear, Charms and tempers are greatly boosted and now worth 7 times an All Resistance roll."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Gem crafting",
+                        "text":  "Royal Gems cost 10 Forgotten Souls instead of 30, and Grand Gems 50 instead of 300."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Experience",
+                        "text":  "Torment XII bonus XP climbs from 1400% to 1700% and Pit Tier 150 from 1800% to 2700%."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Whispers",
+                        "text":  "Whisper Gold caches roughly triple, from about 35 million to about 100 million Gold at Torment XII."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Difficulty",
+                        "text":  "Expert and Penitent open once you finish the Prologue rather than the whole campaign."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Unique items",
+                        "text":  "Tibault\u0027s Will Resource Regeneration halves from 50% to 25%, and Melted Heart of Selig\u0027s resource bonus falls from 102-154% to 58-77%."
+                    }
+                ],
+    "read_minutes":  3,
+    "game_id":  "d4",
+    "summarized_at":  "2026-10-12"
+}

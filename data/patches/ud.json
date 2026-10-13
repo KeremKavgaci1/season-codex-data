@@ -1,0 +1,160 @@
+{
+    "title":  "9/10 (Thu) Update Notice - Season [The Farside]",
+    "version":  "The Farside",
+    "published_at":  "2026-09-10T05:59:00Z",
+    "source_url":  "https://ud.floor.line.games/us/bbsCmn/detail/1788995577330018641",
+    "source_name":  "Official site (UNDECEMBER Updates board)",
+    "tldr":  "The Farside is Undecember\u0027s September 2026 season. It brings Season-only Erosion gear options, the 100-wave Agony Wave defense mode, the full Card system, a new Zodiac specialization and Rune Cast Presets for swapping builds. New skill and link runes arrive, most damaging skills gain about 4% at Lv. 45, several channeled skills now work on the move, and Leo\u0027s Animosity, Intensify Pain, Bleed and Burn are nerfed.",
+    "highlights":  [
+                       "Season-only Erosion gear options during The Farside",
+                       "Agony Wave: a defense mode of up to 100 timed waves with Blessing-and-Curse picks",
+                       "The Card system fully launches, and Rune Cast Presets save whole builds",
+                       "New skill runes Charged Shot and Divine Punishment, plus five new link runes and two Transcendent ones",
+                       "Nerfs to Leo\u0027s Animosity, Intensify Pain, Bleed and Burn"
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Season mode",
+                        "text":  "Open to new or reverted characters, with growth boosts such as +300% Alchemy Mastery EXP and +50% item drop chance."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Erosion options",
+                        "text":  "Strong Erosion gear options, like Erosion DMG % Amplification, can appear only on Season-mode gear this season."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Agony Wave",
+                        "text":  "A new Saluto defense mode, entered with an Agony Key from Chaos Dungeon, runs up to 100 waves with 30 seconds each."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Agony Wave",
+                        "text":  "Each wave offers three linked Blessing-and-Curse options you can reroll or block, and wave bosses drop Agony Shards that open reward chests."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Cards",
+                        "text":  "Cards fully launch (unlocked after Act 13), drop from Chaos Dungeon, Agony Wave and events, and give Album and Deck bonuses, while The Forge card data is wiped."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Rune Cast Preset",
+                        "text":  "Save and reload full rune setups, including triggers, runestones and quick slots; one preset is free and Rubies unlock up to five."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Charged Shot",
+                        "text":  "New Bowgun skill rune that charges in stages and fires a piercing shot, reaching 1766% Physical DMG at Lv. 45."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Divine Punishment",
+                        "text":  "New channeled lightning spell that strikes every enemy in a 400-range field, with a 40% chance on crit to add an enhanced strike."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Link runes",
+                        "text":  "Five new link runes (Haste, Sure Hit, Trance, Overconsumption and the sentry rune Illegal Mod) plus two new Transcendent link runes."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Zodiac",
+                        "text":  "One new Zodiac specialization line is added, with four tiers: Birth, Persistence, Bloom and Void."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Skill runes",
+                        "text":  "Most damaging skill runes gain about 4% at Lv. 45; Meteor, for example, goes from 2100% to 2184% Fire DMG."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Link runes",
+                        "text":  "Most link runes get small Lv. 45 increases; for example, Melee DMG Amplification goes from 22.2% to 24%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Frost Storm",
+                        "text":  "Gains a 150-range explosion dealing 900% (+1900) Cold DMG at Lv. 45, but its Chilling Area damage falls from 267% (+564) to 76% (+159)."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Intensify Pain",
+                        "text":  "Lv. 45 Status Effect DMG Amplification is cut from 218.5% to 140%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Flamethrower",
+                        "text":  "Now usable while moving, auto-aims and applies Arson during the channel, but per-stage Fire amplification drops from 20% to 15%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Sacred Light",
+                        "text":  "Now usable while moving with auto-targeting, and its 30-stack Maintain Position buff becomes a 10-stack Blessing worth 3% damage amplification per stack."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Channeled skills",
+                        "text":  "Domain of Strength, Sacred Devotion and Enchanted Sentry can now be channeled while moving."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Domain of Strength",
+                        "text":  "Lv. 45 Physical DMG rises from 598% (+339) to 933% (+530)."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Extract Energy runes",
+                        "text":  "The elemental versions lose their +3 max Energy and instead give +50% and 4% amplified damage of their element per matching Energy at Lv. 45, limited to one per skill."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Spell Activation while Channeling",
+                        "text":  "Trigger chance goes from 70% to 100%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Seal runes",
+                        "text":  "Most seals get bigger Source and Origin bonuses (Condensed Destruction from +165% to +191%), while the Dodge, Defense and Crowd Control Dodge seals get slightly smaller ones."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Leo\u0027s Animosity",
+                        "text":  "Newly obtained copies roll much lower (DMG amplification from [120~140]% to [60~70]%), and their penalties now stack per 6 equipped runes instead of per 10, with no cap."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Bleed and Burn",
+                        "text":  "Bleed no longer ignores Armor, and Burn no longer ignores Element Resist."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Spica Essence",
+                        "text":  "Lets runes at level 31 or higher grow past the old cap toward Lv. 45 and beyond, but each use may add, keep or remove one level."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Casthor Essence",
+                        "text":  "A high-risk Essence for Rare or better gear with a small chance to double or halve Quality and options; the gear becomes untradable and uses per item are limited."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Constellation of Time",
+                        "text":  "Moved into Chaos Dungeon, where a Memory Rune (Time) guarantees the event and Zodiac Stones drop, and the old separate entrance is removed."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Abyss Stones",
+                        "text":  "Abyss Gate gets 13 new Abyss Stones: 9 Destruction and 4 Distortion."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Chaos Dungeon loot",
+                        "text":  "Emerald Ether replaces White Night Crystal, special materials now double tradable Essence drops instead of adding untradable ones, and Treasure Chests spawn less often."
+                    }
+                ],
+    "read_minutes":  2.5,
+    "game_id":  "ud",
+    "summarized_at":  "2026-10-12"
+}

@@ -1,0 +1,135 @@
+{
+    "title":  "Hero Siege - Ebontharn and Season 10 (Season 10 Patch Notes)",
+    "version":  "Season 10",
+    "published_at":  "2026-08-18T15:27:32Z",
+    "source_url":  "https://steamcommunity.com/ogg/269210/announcements/detail/461208205952813644",
+    "source_name":  "Steam announcement",
+    "tldr":  "Season 10 launched on August 21, 2026 alongside Ebontharn, a free ninth act with three new uber bosses, and introduced the Abyssal Chest seasonal mechanic. Panic Art also moved four former DLC classes and Act 8 into the free base game, streamlined campaign progression, and rewrote combat and monster code for better performance. On the balance side, Incarnation nodes, Eternity Codex loot and several strong builds were cut back hard, while many weaker skills got damage buffs.",
+    "highlights":  [
+                       "Free Act 9 Ebontharn with three new uber bosses",
+                       "Marauder, Plague Doctor, Shield Lancer, Jotunn and Act 8 are now free",
+                       "Abyssal Chest seasonal mechanic with lever-scaled fights and loot",
+                       "600+ Incarnation and 100+ Ether nodes, plus 24 new uniques",
+                       "Combat performance rewrite and rebuilt monster pathfinding"
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Act 9",
+                        "text":  "Ebontharn, a free new act, unlocks once Odin is defeated in Act 8."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Uber bosses",
+                        "text":  "Three uber bosses join the game: Phantom Leviathan, Captain Grimtide and the Blood Maiden."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Abyssal Chest",
+                        "text":  "The seasonal chest spawns up to 5 levers that each summon dangerous high-rarity monsters, and the final fight and rewards scale with how many you pull."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Monetization",
+                        "text":  "Marauder, Plague Doctor, Shield Lancer, Jotunn and Act 8 move into the free base game, and DLC owners get a premium skin instead."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Progression",
+                        "text":  "Acts only have to be cleared once on Normal, after which Nightmare, Hell and Inferno follow without replays and Normal waypoints carry over."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Passive trees",
+                        "text":  "Over 600 Incarnation nodes and over 100 Ether nodes are added."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Items",
+                        "text":  "24 new uniques arrive along with the Gem of Incarnation, a random gem that only fits the Incarnation tree socket."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Performance",
+                        "text":  "Skill and monster-collision code was rewritten, client-side projectile collision removed and monster pathfinding rebuilt to raise combat FPS."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Stash",
+                        "text":  "The stash now allows up to 20 tabs, skill, Incarnation and Ether loadouts go up to 8, and a free relic storage tab is added."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Eternity Codex",
+                        "text":  "Codex timers are replaced by stacks that limit how many times a codex zone can be entered, and the total Magic Find roll drops from 25-50 to 12-20."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Ether",
+                        "text":  "Every mechanic can reach a 100% spawn rate with full node investment, and resetting nodes costs 1,250 instead of 1,750 gold."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Chaos Pillars",
+                        "text":  "Chaos Key drop chances are halved, but Rare and higher pillars can now roll Destiny Shards, Gypsy\u0027s Prophecies, Prophet\u0027s Wisdoms or Satanic Dice depending on tier and difficulty."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Incarnation",
+                        "text":  "Many nodes are cut, for example Unarmed Wargod from 150% to 20%, Agile Wizard from 75% to 35% and Total Elemental Damage nodes from 20% to 8%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Stats",
+                        "text":  "Diminishing returns now apply above 50% Deadly Blow, 350% Faster Cast Rate and 100% Spell Haste, and Life Steal healing is spread over 2 seconds instead of 1.25."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Multiplayer",
+                        "text":  "Monster life added per extra player rises from 0.65 to 0.85."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Leveling",
+                        "text":  "The hero level XP curve is 8.33% lower and dying to a boss no longer costs experience."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Controls",
+                        "text":  "Any skill can be bound to left click, and native borderless windowed mode is supported."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Odyssey",
+                        "text":  "Odyssey mining yields 40% more ore, extra gold from kills has no diminishing returns there, and Odyssey buffs keep running offline."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Necromancer",
+                        "text":  "Raise Skeleton life goes from 180 + 80 per point to 300 + 100 per point and damage per point from 5 to 8 (starting damage falls from 14 to 6), and it gains 75% base splash."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Marksman",
+                        "text":  "Multishot scaling rises from 20% to 26.5% per point, while Homing Missile and Volatile Shot rise from 20% to 28%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Illusionist",
+                        "text":  "Age Proliferation damage per point falls from 12 to 7.5 and its Age Multiliferation node from 85% to 25%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Prophet",
+                        "text":  "Most Carrion Worm nodes are buffed, while Leaping Charge drops from 28% to 20% attack damage per point and several Wounding Paw nodes are trimmed."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Tarot Decks",
+                        "text":  "The divine card drop chance from Tarot Decks falls from 1 in 999 to 1 in 9,999."
+                    }
+                ],
+    "read_minutes":  2.5,
+    "game_id":  "hs",
+    "summarized_at":  "2026-10-12"
+}

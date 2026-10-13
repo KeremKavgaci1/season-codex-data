@@ -1,0 +1,130 @@
+{
+    "title":  "Made to Suffer: Pain and Anguish Descend on Lut Gholein",
+    "version":  "5.1.0",
+    "published_at":  "2026-09-14T13:00:00Z",
+    "source_url":  "https://news.blizzard.com/en-us/article/24304159/made-to-suffer-pain-and-anguish-descend-on-lut-gholein",
+    "source_name":  "Blizzard News",
+    "tldr":  "Patch 5.1.0, Made to Suffer, went live on September 17, 2026. It takes the Nation in Agony story further into Lut Gholein with a level-60 quest, the High Ward district and a Tuesday zone event featuring Andariel and Duriel. Two Legendary Gems arrive, Normal Gems gain Progressive Upgrades, Battlegrounds return to the Nephalem look, and Barbarian, Blood Knight, Crusader and Druid essences are reworked or retuned.",
+    "highlights":  [
+                       "New Made to Suffer quest and the High Ward district in Lut Gholein",
+                       "Twisting Torments: a Tuesday Andariel/Duriel zone event with a weekly Legendary",
+                       "New gems Enigma Latera (5-star) and Prong Crag (2-star); Normal Gems get Progressive Upgrades",
+                       "Battlegrounds go back to the Nephalem theme; next Battleground season is 8 weeks, not 10",
+                       "Essence changes for Barbarian, Blood Knight, Crusader and Druid"
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Story",
+                        "text":  "The new Made to Suffer quest continues the Nation in Agony story in Lut Gholein for every character at level 60."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Lut Gholein",
+                        "text":  "The High Ward district around Sultan Jerhyn\u0027s palace opens with new bounties, objectives and wanted monsters."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Zone event",
+                        "text":  "Every Tuesday Andariel or Duriel invades the Rocky Waste; break three altars to summon a Lieutenant, and their Lieutenants give a weekly Legendary item."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Legendary Gems",
+                        "text":  "Every 9 seconds at most, Enigma Latera (5-star) makes a Primary Attack chain to up to 6 enemies for 3 seconds, raising your damage to them and cutting theirs per buff they hold (max 6) and stealing one non-skill buff from players."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Legendary Gems",
+                        "text":  "Prong Crag (2-star) grants Resolve for 6 seconds (up to 3 stacks) when one hit takes over 10% of your max Life, adding damage and Critical Resistance and reducing damage from that source; 20-second cooldown."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Gem drop pool",
+                        "text":  "The featured gem pool gives a 50% chance at Enigma Latera, both new gems join the standard pool, and the pools run until December 17, 2026."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Gem trial",
+                        "text":  "Until November 4, 2026, players can try a Rank 10 Enigma Latera for about an hour in dungeons, Elder Rifts and zone activities."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Normal Gems",
+                        "text":  "Normal Gems get Progressive Upgrades from Rank 6, splitting stat gains into smaller, easier steps."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Battlegrounds",
+                        "text":  "Battlegrounds return to the Nephalem theme without Small Demons or Demon Gates, keep the wider roads and move the Nephalem Spirit summon to the Sacred Guardian."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Battlegrounds",
+                        "text":  "The next Battleground season and later ones last 8 weeks instead of 10."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Iben Fahd\u0027s Sanctum",
+                        "text":  "Iben Fahd\u0027s Sanctum allows extra chest openings after the daily ones (more on older servers) for faster Culling Stones and Legacy of the Horadrim."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Quests",
+                        "text":  "After repeated deaths in an instanced main-quest dungeon you can drop to an easier difficulty and carry on without a restart."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "UI",
+                        "text":  "Player inspection now shows all equipped cosmetics, portals and effects, and the Event tab gains categories and sub-tabs."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Barbarian",
+                        "text":  "Polished Pestles (Leap) now deals 240% base damage and grants a shield per enemy hit (3 stacks, up to 540%) instead of bonus damage per grabbed enemy."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Barbarian",
+                        "text":  "Thrashabout (Hammer of the Ancients) loses its ramp-up; its three strikes now deal a fixed, higher 15%, 15% and 24% of max Life."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Blood Knight",
+                        "text":  "Crushed Pity (Abomination) marks now add 10%-120% Primary Attack damage, down from 30%-180%, and stacks last 1 second instead of 3."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Blood Knight",
+                        "text":  "The Bloodsoaked Hood (Mephitic Cloud) buff lasts 1 second after leaving the cloud, down from 2."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Blood Knight",
+                        "text":  "Maul and Response (Whirling Strike) counterattack damage rises from 70% to 100%, which also raises its healing."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Crusader",
+                        "text":  "Azure Sacristan (Fist of the Heavens) loses its dash, mounted or not; a full charge now strikes up to 8 nearby enemies with lightning for 280% damage each."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Crusader",
+                        "text":  "Shock Doctrine (Condemn) now fires a Chain Lightning every 12 yards you move, hitting up to 3 enemies for 80% damage with up to 4 bounces, replacing its stored-energy strikes."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Crusader",
+                        "text":  "Storm Saddle (Draw and Quarter) charge now grants an absorb shield instead of applying Shock, and its cooldown drops from 18 to 15 seconds."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Druid",
+                        "text":  "Flesh is Fertile Ground (Thorn Armor) trades its ally Attack Speed aura and damage pulse for Primary Attack thorns that grant an absorb shield and knockback immunity."
+                    }
+                ],
+    "read_minutes":  2.7,
+    "game_id":  "di",
+    "summarized_at":  "2026-10-12"
+}

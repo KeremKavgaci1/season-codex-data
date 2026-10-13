@@ -1,0 +1,165 @@
+{
+    "title":  "SS14 \"Tartarus\" Season Update Log",
+    "version":  "SS14",
+    "published_at":  "2026-10-09",
+    "source_url":  "https://torchlight.xd.com/ss14pn?lang=en",
+    "source_name":  "Official site (torchlight.xd.com patch-notes page)",
+    "tldr":  "Tartarus (SS14) launches Oct 15 at 7 PM PDT (Oct 16, 02:00 UTC). It adds Followers, beasts earned in Caged Beast encounters that fight with exclusive Tartarus skills, plus a Clockwork Core-based third trait for Youga. Seven spells, 52 supports and five legendaries are new, while several top hero traits, supports and Banishment divinity affixes are nerfed and Memory Revival, looting and trading get improvements.",
+    "highlights":  [
+                       "Youga\u0027s third trait, The Ultimate One, centers your main spell on a Clockwork Core.",
+                       "Followers from Caged Beast encounters wield exclusive Tartarus and Primal Tartarus skills.",
+                       "Seven new spells, 52 new support skills and five new legendaries.",
+                       "Rehan, Rosa, Selena and Sage traits and Banishment divinity affixes are nerfed.",
+                       "Ultimate Memories can be revived repeatedly, and filtered loot no longer slows big drops."
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Youga",
+                        "text":  "The Ultimate One puts Clockwork Core in your main spell\u0027s second support slot, and 180% of your Cooldown Recovery or Duration bonuses boost its damage, capped at 48%."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Followers",
+                        "text":  "Caged Beast encounters drop Followers of four species (Lion Queen, Lone Wolf, Mammoth, Witch Rat), and higher-quality ones have more skill slots."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Tartarus Skills",
+                        "text":  "Followers use exclusive Tartarus skills, such as a Primal Raging Warcry that makes enemies take 50% more attack hit damage."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Pactspirits",
+                        "text":  "Witch of the Night grants up to 8% more spell damage, and Twin Inquisitors can duplicate Warden\u0027s Cache loot at up to a 28% chance."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Active skills",
+                        "text":  "Seven new spells, including Psionic Missile, Moon\u0027s Dawn and Voltaic Ripple, each come with 2 to 4 dedicated supports."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Support skills",
+                        "text":  "33 new general supports arrive, such as Honed Edge (+20% more damage) and Mana Convergence."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Legendary gear",
+                        "text":  "Five new legendaries include Illusory Chimera boots (40-50% Movement Speed) and Immolating World, which turns your Main Skill into a Level 20 True Flame Immolation."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Compasses",
+                        "text":  "New Afterlight compasses arrive, plus a Wild War Compass that adds Trial: God of War to a level."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Berserker Rehan",
+                        "text":  "Seething Silhouette now gives 10-34% more damage while Berserk, down from 20-44%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Lightbringer Rosa",
+                        "text":  "Born to Cleanse drops from 20-48% to 10-34%, and Boundless Sanctuary\u0027s cap from 50-90% to 40-80%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Tide Whisper Selena",
+                        "text":  "Dance of the Deep\u0027s Terra damage modifier goes from +0-20% to -20-0%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Scent Weaver Sage",
+                        "text":  "Razor Leaf falls from 10-14% to 8-12%, and Everlasting Nectar\u0027s cap from 60-100% to 30-70%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Thornfield \u0026 Tidewell",
+                        "text":  "Level 20 base damage drops for Thornfield (486 to 405) and Tidewell (507-942 to 366-680)."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Fallen Star",
+                        "text":  "Level 20 base damage rises from 332-616 to 465-863."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Sentry cores",
+                        "text":  "Thunder, Flame and Frost Core sentries activate in 0.2s instead of 0.3s, and Thunder Core\u0027s per-jump delay halves to 0.15s."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Storm Field",
+                        "text":  "The Thunderstrike multiplier falls from 90% to 54%, and Level 20 current damage from 164-304 to 137-254."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Split Firebolt",
+                        "text":  "The fireball now bursts on contact into 3 smaller fireballs rather than at the end of its flight."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Rain of Arrows",
+                        "text":  "Its speed-to-damage conversion now ignores any Projectile Speed beyond 200%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Support skills",
+                        "text":  "Psychic Burst (35.5% to 30%) and Electric Punishment (20% to 16%) lead a round of support damage cuts."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Spell Concentration \u0026 Control Spell",
+                        "text":  "Spell Concentration\u0027s area penalty and Control Spell\u0027s crit penalty are halved, but their damage bonuses shrink (32% to 30%, and 37.5% to 32% now for hits only)."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Pantheon\u0027s Elegy",
+                        "text":  "Deception\u0027s on-kill explosion chance falls from 100% to 50%, and Hunting\u0027s speed bonus from 150% to 120%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Legendary gear",
+                        "text":  "Ralph\u0027s Dreadcrest swaps its Trauma affixes for stacking Laceration, and Eternal Sun regenerates 8% of max Life per second below full Life."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Nether King\u0027s Divinity",
+                        "text":  "Banishment affixes are cut across the board, e.g. Burst from 30% to 10% and Provision from 100% to 40%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Memory Revival",
+                        "text":  "Ultimate Memories can be revived repeatedly at a rising cost, while tier-up odds fall from 30% to 20% and T0 values rise about 23%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "True Damage",
+                        "text":  "Most True Damage, including Thornfield and on-kill explosions, no longer scales with damage-to-Life bonuses."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Drops",
+                        "text":  "Legendary Compasses now drop from Timemark 8, in far smaller numbers than at Profound."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Loot filter",
+                        "text":  "Items your filter hides no longer stall the rest of a big drop."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Memory crafting",
+                        "text":  "Memory affixes can be auto-reconstructed toward an affix and tier you choose."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Trade House",
+                        "text":  "Search-condition presets can be saved and shared, and Followers and Tartarus skills are now tradable."
+                    }
+                ],
+    "read_minutes":  2.5,
+    "game_id":  "tli",
+    "summarized_at":  "2026-10-12"
+}

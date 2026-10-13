@@ -1,0 +1,134 @@
+{
+    "title":  "Season 40: Light\u0027s Calling - Preview",
+    "published_at":  "2026-09-12",
+    "source_url":  "https://news.blizzard.com/en-us/article/24301510/season-40-lights-calling-preview",
+    "source_name":  "Blizzard News",
+    "tldr":  "Season 40 brings back Light\u0027s Calling, the theme that debuted in Season 27: Angelic Crucibles let you Sanctify a Legendary item so it gains one of three random class-specific powers. The preview lists no class or item balance changes. Everything else is the usual rotation, with Season 16 cosmetics returning, easier Conqueror boss and Greed tasks on Torment X, a different Conquest lineup and new Haedrig\u0027s Gift class sets. The season went live on October 2 at 5 p.m. PDT in the Americas, five days after Season 39 ended.",
+    "highlights":  [
+                       "Light\u0027s Calling returns: Angelic Crucibles Sanctify Legendaries with random class powers",
+                       "The preview lists no class or item balance changes",
+                       "Season 16 cosmetics return, plus a new pet and a new portrait",
+                       "Conqueror boss and Greed tasks drop to Torment X",
+                       "All seven Haedrig\u0027s Gift class sets rotate"
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Season theme",
+                        "text":  "Light\u0027s Calling is the Season 40 theme, back again after Season 27 and Season 34."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Angelic Crucible",
+                        "text":  "Angelic Crucibles are a new seasonal consumable that can Sanctify any equippable Legendary item."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Sanctified powers",
+                        "text":  "Sanctifying an item grants it a random pick from three class-specific powers."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conqueror Set",
+                        "text":  "Season 16\u0027s rewards return, including the Helm and Shoulders of the Conqueror Set."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Portrait frames",
+                        "text":  "A series of adventure-themed portrait frames can also be earned this season."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Wings of Lempo",
+                        "text":  "The Wings of Lempo return as part of the Season 16 cosmetic rewards."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "End of Journey",
+                        "text":  "The two new End of Journey rewards are the Taennin the Tiny pet and the Primal Hunter portrait."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Stash tabs",
+                        "text":  "Completing the Conqueror tier still grants one extra stash tab per season, capped at five in total."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conqueror: boss",
+                        "text":  "The Conqueror boss task now asks for a sub-30-second Azmodan kill on Torment X at level 70, instead of Season 39\u0027s 1:30 Malthael kill on Torment XIII."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conqueror: Greed",
+                        "text":  "Killing Greed for Conqueror now needs only Torment X, down from Torment XIII."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conquests",
+                        "text":  "Speed Demon / Need for Speed returns: finish a max-level Nephalem Rift on Torment X in 2 minutes or less."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conquests",
+                        "text":  "On a Good Day / I Can\u0027t Stop returns: get three Legendary Gems up to level 65."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conquests",
+                        "text":  "Boss Mode / Worlds Apart stays from Season 39: defeat a set list of bosses on Torment X at max level, all inside 20 minutes from game start."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conquests",
+                        "text":  "Curses! / Stars Align returns: slay at least 350 monsters during a single Cursed Chest event as a level 70 character on Torment X."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conquests",
+                        "text":  "Years of War / Dynasty returns: solo Greater Rift 55 clears using the bonuses of six different sets from a given list."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Conquests",
+                        "text":  "Sprinter, Avarice, The Thrill and Masters of the Universe, along with their Hardcore versions, rotate out after Season 39."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Barbarian",
+                        "text":  "Barbarians receive Horde of the Ninety Savages instead of Wrath of the Wastes."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Crusader",
+                        "text":  "Crusaders receive Aegis of Valor instead of Roland\u0027s Legacy."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Demon Hunter",
+                        "text":  "Demon Hunters receive Gears of Dreadlands instead of Unhallowed Essence."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Monk",
+                        "text":  "Monks receive Patterns of Justice instead of Raiment of a Thousand Storms."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Witch Doctor",
+                        "text":  "Witch Doctors receive Mundunugu\u0027s Regalia instead of Helltooth Harness."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Wizard",
+                        "text":  "Wizards receive Typhon\u0027s Veil instead of Tal Rasha\u0027s Elements."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Haedrig\u0027s Gift: Necromancer",
+                        "text":  "Necromancers receive Masquerade of the Burning Carnival instead of Bones of Rathma."
+                    }
+                ],
+    "read_minutes":  2,
+    "game_id":  "d3",
+    "summarized_at":  "2026-10-12"
+}

@@ -1,0 +1,155 @@
+{
+    "title":  "Diablo II: Resurrected Ladder Season 15 Now Live",
+    "version":  "3.3",
+    "published_at":  "2026-08-07T17:00:00Z",
+    "source_url":  "https://news.blizzard.com/en-us/article/24296140/diablo-ii-resurrected-ladder-season-15-now-live#Notes",
+    "source_name":  "Blizzard News",
+    "tldr":  "Patch 3.3 rolled out on August 18, 2026, ahead of Ladder Season 15, which opened on August 21. It is a small, loot-focused update: nine items and the Angelic Raiment set are buffed or reworked on Ladder in Reign of the Warlock, and eight formerly Ladder-only items become available in Non-Ladder. In Terror Zones, high Herald tiers drop more Rares, while Latent Sunder Charms, Worldstone Shards and Ancient Statues become harder to get. It also fixes several skill bugs, including the Warlock\u0027s Bind Demon, and moves seasons to a Monday close, Tuesday patch and Friday launch rhythm.",
+    "highlights":  [
+                       "Ladder Season 15 opened Aug 21, 2026 at 5 p.m. PDT, with Patch 3.3 rolling out on Aug 18.",
+                       "Nine items plus the Angelic Raiment set are buffed or reworked, on Ladder in Reign of the Warlock only.",
+                       "Latent Sunder Charms are harder to farm: the minimum level rises to 75, and Magic Find drops come only on Hell.",
+                       "Herald tiers 3 and up drop more Rares, while Worldstone Shards drop less often but come with a bonus item.",
+                       "Former Ladder-only items such as Bulwark, Cure and Metamorphosis are now available in Non-Ladder."
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "change",
+                        "area":  "Season schedule",
+                        "text":  "Season 15 introduced a new rhythm of a Monday ladder close (Aug 17, 11 a.m. PDT), a Tuesday patch (Aug 18) and a Friday launch (Aug 21, 5 p.m. PDT), and Blizzard says later seasons will follow similar timing."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Non-Ladder",
+                        "text":  "Mania, Hysteria, Metamorphosis, Ground, Temper, Hearth, Cure and Bulwark are no longer Ladder-exclusive."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Item changes scope",
+                        "text":  "All of the item changes below apply only on Ladder in Reign of the Warlock; D2 Classic and Lord of Destruction keep the old versions."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Bloodletter",
+                        "text":  "Now grants 20% faster run/walk."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "The Battlebranch",
+                        "text":  "Base item level drops from 34 to 30, and its level requirement drops from 25 to 17."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Rogue\u0027s Bow",
+                        "text":  "Gains an Amazon-only bonus of +1 to +3 to either Cold Arrow or Fire Arrow."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Pluckeye",
+                        "text":  "Now grants 25% increased attack speed."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Bane Ash",
+                        "text":  "Turned into a caster item: it loses 20% attack speed and 50-60% enhanced damage and gains 20% faster cast rate."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Gravenspine",
+                        "text":  "Now grants 10% faster cast rate."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Blinkbat\u0027s Form",
+                        "text":  "Faster run/walk rises from 10% to 30%, and it now restores 1 mana per kill."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "The Ward",
+                        "text":  "Now comes with 1 socket."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Manald Heal",
+                        "text":  "Now grants 10% faster cast rate."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Angelic Raiment",
+                        "text":  "With 3 set pieces, the Sickle gets +6 damage and the Mantle gets +100% damage to undead, and the full set now adds +1 to all skills."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Heralds",
+                        "text":  "Herald tiers 3 and above are more likely to drop Rare or better items."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Latent Sunder Charm",
+                        "text":  "The lowest level they can drop at goes up from 69 to 75."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Latent Sunder Charm",
+                        "text":  "Magic Find drops are rarer and now happen only on Hell difficulty; the Herald drop rate stays the same."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Worldstone Shards",
+                        "text":  "Shards drop less often, but each one now comes with an extra item."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Ancient Statues",
+                        "text":  "Ancient Statues now drop less often."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Bind Demon",
+                        "text":  "A bug that pushed the Warlock skill\u0027s extra damage bonus above its intended value has been fixed."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Sigil: Death",
+                        "text":  "No longer uses mana when a cast fails, and +X to Fire Skills now applies to it."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Miasma Chain",
+                        "text":  "Its projectiles no longer collide with neutral or friendly units."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Leap",
+                        "text":  "Landing from Leap can no longer trap a character in its animation."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Council Heralds",
+                        "text":  "Council Members that spawn as Heralds now drop loot."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Boss AI",
+                        "text":  "Resolved a bug that could leave certain bosses without working AI."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Controller",
+                        "text":  "Controller players can now purchase keys from Hratli in bulk."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Chronicle",
+                        "text":  "Fixed items displaying wrongly in the Chronicle and fixed the item-eligibility message, which now hides for registered items and shows in 8-player games."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Shared Stash",
+                        "text":  "Season 14 stash items moved to Withdraw Only tabs that can be emptied throughout Season 15, and leftover Season 13 items were deleted."
+                    }
+                ],
+    "read_minutes":  2.5,
+    "game_id":  "d2r",
+    "summarized_at":  "2026-10-12"
+}

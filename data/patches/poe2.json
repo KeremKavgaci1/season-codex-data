@@ -1,0 +1,140 @@
+{
+    "title":  "Content Update 0.5.5 — Path of Exile 2: Forbidden Rites",
+    "version":  "0.5.5",
+    "published_at":  "2026-09-02",
+    "source_url":  "https://www.pathofexile.com/forum/view-thread/4000864",
+    "source_name":  "Official forum",
+    "read_minutes":  2.7,
+    "tldr":  "Patch 0.5.5 opened the Forbidden Rites event league on September 4, 2026, a fresh economy that runs alongside Runes of Aldur until the 1.0 full release and spreads Ritual encounters through the campaign. The Trial of Chaos gets a big overhaul: pausable runs, a reward chest in every room and optional extended runs. Expedition moves into the core game, Soul Cores are added and reshuffled, and four endgame bosses lose their blanket elemental resistances. There is no class or skill balance section.",
+    "highlights":  [
+                       "New Forbidden Rites event league: Ritual encounters in every campaign area, plus chained boss rituals.",
+                       "Trial of Chaos overhaul: runs you can leave and resume, a reward chest in every room, and optional extended runs.",
+                       "Expedition content from Runes of Aldur joins the core game, Standard included.",
+                       "17 new Soul Cores; eight existing ones now have a Limit of 1 with boosted or reworked bonuses.",
+                       "Four endgame bosses lose their blanket elemental resistances; Delirium fog spread and Breach rare spawns are trimmed."
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Event league",
+                        "text":  "Every campaign area has a Ritual encounter that pays out levelling currency and gear rather than endgame loot."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Event league",
+                        "text":  "Boss-ritual clusters (two per Act, one per Interlude) carry each beaten boss into the next ritual\u0027s waves, then let you spend Tribute on Uniques."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Event league",
+                        "text":  "League-only Sacred Blooms add the Viridian Wildwood to a cluster of Maps, and Wisps gathered there empower those Maps\u0027 monsters and rewards."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Challenges",
+                        "text":  "Cosmetic rewards unlock at 2, 4, 6 and 8 challenges, plus a hideout totem piece for each challenge completed."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Ritual",
+                        "text":  "Party members earn their own Tribute and get a separate, non-rerollable reward list."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Trial of Chaos",
+                        "text":  "Runs can be left midway and resumed later in the same room."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Trial of Chaos",
+                        "text":  "Each room ends with a reward chest, so dying no longer wipes the whole run\u0027s loot."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Trial of Chaos",
+                        "text":  "A cleared 10-trial Inscribed Ultimatum can be extended up to twice with the same modifiers, with an optional double-or-nothing currency wager."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Trial of Chaos",
+                        "text":  "Completion rewards are limited to Currency and Soul Cores, with Corrupted items removed."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Trial of Chaos",
+                        "text":  "Area-level bonuses (more magic and rare monsters, better boss drops, Exceptional items) compensate for Atlas passives not applying."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Trial of Chaos",
+                        "text":  "Modifiers gain more tiers with much lower difficulty each and show real values; Turrets start at 3 and Petrification Statues at 2."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Soul Cores",
+                        "text":  "17 new Soul Cores: 13 Jiquani\u0027s and 4 Atziri\u0027s."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Soul Cores",
+                        "text":  "Eight cores, including Jiquani, Opiloti, Tzamoto and Xopec, now have a Limit of 1 with boosted or reworked bonuses."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Soul Cores",
+                        "text":  "Atmohua, Cholotl and Zantipi now convert 40% of requirements to an attribute (was 20%)."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Soul Cores",
+                        "text":  "Puhuarte, Tzamoto and Xopec max-resistance bonuses go from +1% to +2%, and Ticaba\u0027s cut to enemy Critical Damage Bonus against you goes from 20% to 50%."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Expedition",
+                        "text":  "Expedition, Farrow and Dannig join the core game, Standard included, with Expeditions appearing from Act 4."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Expedition",
+                        "text":  "Expedition Tablets (Standard and Forbidden Rites) give tiered bonuses for 1-4 Tablets per Map: extra Expeditions, Verisium Remnants and two 35% density boosts."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Endgame",
+                        "text":  "Large Abyssal Ravines now appear on the Atlas, and Maps on them always contain Abysses."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Endgame bosses",
+                        "text":  "The Arbiters of Ash and Divinity trade all-elemental resistance for one resistance and one weakness; Omniphobia and the Raven Trickster lose theirs entirely."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Endgame",
+                        "text":  "Killing the Arbiter of Divinity with a non-quest Origin Core completes the whole Precursor Fortress, and failed Corrupted Nexus Maps can be retried."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Delirium",
+                        "text":  "Grand Mirror fog spreads to exactly 10 Maps (was 8-14 or 10-16 by Map tier), and pack count stops scaling past 100% Deliriousness."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Abyss \u0026 Breach",
+                        "text":  "The \u0027of Champions\u0027 Abyss tablet modifier adds 2-3 extra Rares (was 1-2), while Breach\u0027s \u0027of the Invasion\u0027 drops to 1-2 (was 1-3)."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "UI",
+                        "text":  "The Currency Exchange gets a stash/inventory toggle, the World Map marks your last-used waypoint, and gaining Atlas points now shows a notification."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Weapon sets",
+                        "text":  "Fixed bugs that let skills, auras and supports from the inactive weapon set work without swapping."
+                    }
+                ],
+    "game_id":  "poe2",
+    "summarized_at":  "2026-10-12"
+}

@@ -1,0 +1,140 @@
+{
+    "title":  "Content Update 3.29.0 — Path of Exile: Curse of the Allflame",
+    "version":  "3.29.0",
+    "published_at":  "2026-07-16T23:00:00Z",
+    "source_url":  "https://www.pathofexile.com/forum/view-thread/3985332",
+    "source_name":  "Official forum",
+    "read_minutes":  3,
+    "tldr":  "Path of Exile 3.29 opened the Curse of the Allflame league, where you salvage seafloor treasure, link charted dives into Voyages and spend Ducats on unusual crafts. Mercenaries of Trarthus joined the core game, alongside the Luminary, a Scion ascendancy built around hired Mercenaries. Abyss, Legion and Talismans were reworked, and gems no longer need a matching socket colour. Spells and caster weapons got a broad damage buff, while Breach monster density was cut and Reflect map mods became Thorns.",
+    "highlights":  [
+                       "New league: dive for sunken loot, chain charted areas into Voyages and spend Ducats on unusual crafts.",
+                       "Mercenaries of Trarthus joins the core game, plus the Luminary, a Mercenary-focused Scion ascendancy.",
+                       "Abyss, Legion and Talismans are revamped; Reflect map mods become Thorns on rare monsters.",
+                       "Any gem fits any socket colour, and sockets now roll white by default.",
+                       "Most spells and caster weapons hit harder, and non-Spectre minions no longer pause to attack."
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "League mechanic",
+                        "text":  "Help the corsair Valerie dive the ocean floor with Charts, link charted areas into Voyages, and trade Ducats for unusual item modifications."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Luminary (Scion)",
+                        "text":  "The new ascendancy keeps up to 3 permanently hired Mercenaries (1 fighting, 2 in reserve) whose gear you can change."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Mercenaries",
+                        "text":  "From Act 3 on you can duel Mercenaries for an item they carry (or, in maps, a Warrant), and they no longer raise monster life or loot as party members."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Abyss",
+                        "text":  "Pits now start open and erupt after enough nearby kills, a new Abyss pinnacle boss arrives, and Abyss becomes the only source of Stygian Vises and Abyssal Jewels, apart from rare jewels in Delve."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Legion",
+                        "text":  "New Crystals of Permutation turn Enshrouded uniques into other uniques of the same item class, Incubators are gone, and encounters auto-release once 90% of monsters are freed."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Gem sockets",
+                        "text":  "Gems fit sockets of any colour, a matching colour adds +10% quality, and sockets roll white by default."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Chromatic Orbs",
+                        "text":  "Chromatics are rarer and no longer sold by vendors; new bench crafts guarantee at least 2, 3 or 4 non-white sockets for 5, 20 or 75 Chromatics."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Talismans",
+                        "text":  "Talismans now carry enchantments instead of special implicits, are no longer corrupted by default, drop from Red Beasts or Bestiary bosses, and unique Talismans left the general drop pool."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Reflect mods",
+                        "text":  "Reflect map mods become Thorns on rare monsters, returning 800 physical or 1,500 elemental damage per hit in red maps, and normal defences mitigate it."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Atlas Anomalies",
+                        "text":  "Finishing Voidstone maps can spawn Anomaly areas that need no map item, now home to Reflecting Mists and the Nameless Seer."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Breach",
+                        "text":  "Unstable Breaches spawn 15% fewer packs (kills give 25% more progress), at most 2 can be open (down from 3), and Genesis Tree equipment points cap at 16 (down from 20)."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Minions",
+                        "text":  "All minions except Spectres stop pausing when they attack, a big damage boost for Zombies, Golems, Skeletons and Raging Spirits."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Spells",
+                        "text":  "Many spells gain base damage and per-level scaling; Fireball\u0027s added damage effectiveness, for example, rises from 370% to 480%."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Spell identity",
+                        "text":  "Pure lightning spells generally cast faster but cost more mana (often +25%), pure fire spells cost less (often 20% less), and shadow physical and pure cold hit spells gain crit chance."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Hexblast \u0026 Discharge",
+                        "text":  "The cooldown on both skills is halved, from 2 seconds to 1."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Keystones",
+                        "text":  "Three new keystones near the Witch lock you to one element: Bitter Frost, Roiling Tempest (25% more maximum, 50% less minimum lightning damage) and Voracious Flame (one extra Ignite, 25% less Ignite damage)."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Skill gems",
+                        "text":  "Additions include four exceptional Pact skills, the Coursing Currents and Crystalfall supports, Mana-Infused Staff and four transfigured skills."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Caster weapons",
+                        "text":  "Staff spell damage prefixes reach 200% (up from 164%) and the top staff roll of added fire damage to spells rises from 88-155 to 140-246, but caster weapons lose elemental damage suffixes."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Mana costs",
+                        "text":  "Reduced skill cost on the passive tree, and on several uniques and ring mods, is converted to Cost Efficiency."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Assassin",
+                        "text":  "Mystical Infusion stops copying weapon crit chance to spells; spell crits now roll twice (Bifurcate) with 30% less spell critical strike chance."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Elemental Hit",
+                        "text":  "Elemental Hit\u0027s added fire, cold and lightning damage is cut by 17% at every gem level."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Crafting",
+                        "text":  "Every town from Act 2 on has a crafting bench, and two default crafts reroll rare item mods: 3 mods for 3 Chaos or 1 mod for 8 Chaos."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Stash stacks",
+                        "text":  "Most stackable currency, fragments and divination cards stack to 10,000 in their tabs (up from 5,000); Catalysts stack to 20 (up from 10)."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Convenience",
+                        "text":  "A new keybind returns you to your hideout, Scion is unlocked by default, the Breach stash tab is enabled, and three more NPCs identify items."
+                    }
+                ],
+    "game_id":  "poe1",
+    "summarized_at":  "2026-10-12"
+}

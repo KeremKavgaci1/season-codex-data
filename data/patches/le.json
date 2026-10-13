@@ -1,0 +1,135 @@
+{
+    "title":  "Season 5: Rage of the Frostborn Patch Notes",
+    "version":  "1.5",
+    "published_at":  "2026-09-25T16:00:00Z",
+    "source_url":  "https://lastepoch.com/1-5/patchnotes",
+    "source_name":  "Official site (lastepoch.com)",
+    "tldr":  "Season 5: Rage of the Frostborn (patch 1.5) is built around Rage of Morditas, a timed kill-streak encounter whose loot you shape with blood and ice rituals. It leads to a new Morditas boss and a pinnacle fight that requires 400 Corruption. Paladin, Shaman and Bladedancer each get a new skill, and the patch adds 16 uniques and 2 set items. The Bazaar and Circle of Fortune get big reworks, many Runic Invocation combos are buffed, and early corrupted loot and repeated echo farming are toned down.",
+    "highlights":  [
+                       "Rage of Morditas: a timed kill-streak encounter with ritual-driven loot and 18 exclusive item bases",
+                       "New Morditas boss, plus Demigod\u0027s Ascendance, a pinnacle fight that requires 400 Corruption",
+                       "New skills: Radiant Lance (Paladin), Summon Tide Elemental (Shaman) and Dreamslash (Bladedancer)",
+                       "Bazaar price suggestions with automatic price lowering; Circle of Fortune prophecies rebuilt around rewards you choose",
+                       "16 new uniques, 2 set items and a large Runic Invocation buff pass"
+                   ],
+    "changes":  [
+                    {
+                        "tag":  "new",
+                        "area":  "Rage of Morditas",
+                        "text":  "A new timed encounter starts at a Blood Crystal in the Campaign or Monolith; kills extend the clock, then the enemies you killed rise again for a second wave."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Bloodrage Charges",
+                        "text":  "Reaching 20, 50, 90, 140 and 200 kills earns a charge plus a random buff from a pool of 28, and the charges are then spent to claim or reroll item rewards."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Forging Potential",
+                        "text":  "Morditas loot can roll new Ice Forging Potential, which may be kept when crafting, or Blood Forging Potential, which raises critical craft chance."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Item bases",
+                        "text":  "18 new level-50 item subtypes drop only from Rage of Morditas."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Morditas boss",
+                        "text":  "Repeated Morditas encounters in the Monolith unlock special Echoes that end in a Morditas boss fight; an adjustable Anger level raises both difficulty and loot."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Pinnacle boss",
+                        "text":  "Beating Morditas awards Demigod\u0027s Ascendance, a Pinnacle Woven Echo that requires 400 Corruption."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Uniques",
+                        "text":  "16 new unique items and 2 new set items are added to the loot pool."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Paladin",
+                        "text":  "Radiant Lance (15 Paladin points) requires a shield, fires a lightning beam, and gains 1% more damage for each 1% of uncapped block chance."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Shaman",
+                        "text":  "Summon Tide Elemental (30 Shaman points) adds a permanent cold-spell minion with a Geyser on a 4-second cooldown."
+                    },
+                    {
+                        "tag":  "new",
+                        "area":  "Bladedancer",
+                        "text":  "Dreamslash (10 Bladedancer points) is a 3-mana dash-and-slash attack that your Shadows also perform."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Bazaar",
+                        "text":  "Listings get a suggested price based on recent sales, and sellers can opt in to automatic price drops (hourly, daily or weekly) down to a floor they set."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Merchant\u0027s Guild",
+                        "text":  "All equippable item types can be bought at any rank, ranks now unlock bags of crafting materials or keys, and Black Market tokens are removed."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Circle of Fortune",
+                        "text":  "Prophecy rerolling is gone: you choose a reward for each of 4 slots, the slots store up to 99 charges as you earn Favor, and new purchasable Lenses modify them."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Monolith",
+                        "text":  "Echoes you have already attempted now award much less XP and favor when you enter them again."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Corrupted items",
+                        "text":  "Pre-corrupted drops can no longer carry T7 affixes until area level 80, or T6 affixes until area level 50."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Omen Windows",
+                        "text":  "Omen Windows now appear from area level 18 (from 10), and their Idol Altar drop chance is now 40% at area levels 32-49 and 80% at 50-79 (from 100%)."
+                    },
+                    {
+                        "tag":  "change",
+                        "area":  "Skill unlocks",
+                        "text":  "Synchronized Strike now needs 35 Bladedancer points (from 10), and Symbols of Hope needs 35 Paladin points (from 15)."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Runic Invocation",
+                        "text":  "Many invocations hit harder; for example, Dragons\u0027 Breath goes from 300% to 600% effectiveness and Antipode of Mesembria from 900% to 1,500%."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "Tempest Strike",
+                        "text":  "Mana cost drops from 16 to 12, and melee damage effectiveness rises from 100% to 200%."
+                    },
+                    {
+                        "tag":  "nerf",
+                        "area":  "Ward affix",
+                        "text":  "The ward-per-second affix on rings and amulets is lower; for example, tier 1 now rolls 2-3 (from 6-7)."
+                    },
+                    {
+                        "tag":  "buff",
+                        "area":  "The Woven",
+                        "text":  "Enemies and Echo rewards drop imprinted items about 20% more often, and Lost Caches about 40% more often."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Nexus / Traveler\u0027s Rest",
+                        "text":  "A new Nexus panel shows endgame activities, timelines, dungeons and factions, and Echo of the World is renamed Traveler\u0027s Rest and gets a waypoint."
+                    },
+                    {
+                        "tag":  "qol",
+                        "area":  "Offline \u0026 controller",
+                        "text":  "Full Offline mode now starts from the game\u0027s landing page instead of a Steam launch option, and controller users get native menu navigation instead of a virtual cursor."
+                    }
+                ],
+    "read_minutes":  2.5,
+    "game_id":  "le",
+    "summarized_at":  "2026-10-12"
+}
